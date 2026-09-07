@@ -1,0 +1,9 @@
+{
+  "app": "civic-platform",
+  "features": 320,
+  "sourceApps": 14,
+  "calculatorEngines": 0,
+  "registryHash": "3a44c2d89048bc6f14b7cd121ac41cf6cca5dad133df5b253675160147b905f7",
+  "builtAt": "2026-09-07T22:05:55.629Z",
+  "status": "built"
+}

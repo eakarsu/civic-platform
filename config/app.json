@@ -1,0 +1,43 @@
+{
+  "id": "civic-platform",
+  "title": "Government & civic administration",
+  "buyer": "Public-sector administrators",
+  "sourceCount": 14,
+  "sources": [
+    "ai-federal-contract-indirect-rate-reconciliation",
+    "ai-government-contract-incurred-cost-compliance",
+    "ai-jury-administration-and-service-scheduling",
+    "ai-medicaid-redetermination-operations",
+    "ai-victim-compensation-case-operations",
+    "AICitizenchatbot",
+    "AIElectionIntegrityMonitor",
+    "AIElectionPollWorkerOps",
+    "AIInparkdigitalassistant",
+    "AIPublicTransitOptimizer",
+    "AISmartCityTrafficSignal",
+    "AIUrbanPlanningZoningSimulator",
+    "government_contracts",
+    "government_contracts_v2"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46038,
+  "productName": "Government Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation",
+    "/Volumes/external/projects/ai-government-contract-incurred-cost-compliance",
+    "/Volumes/external/projects/ai-jury-administration-and-service-scheduling",
+    "/Volumes/external/projects/ai-medicaid-redetermination-operations",
+    "/Volumes/external/projects/ai-victim-compensation-case-operations",
+    "/Volumes/external/projects/AICitizenchatbot",
+    "/Volumes/external/projects/AIElectionIntegrityMonitor",
+    "/Volumes/external/projects/AIElectionPollWorkerOps",
+    "/Volumes/external/projects/AIInparkdigitalassistant",
+    "/Volumes/external/projects/AIPublicTransitOptimizer",
+    "/Volumes/external/projects/AISmartCityTrafficSignal",
+    "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+    "/Volumes/external/projects/government_contracts",
+    "/Volumes/external/projects/government_contracts_v2"
+  ]
+}

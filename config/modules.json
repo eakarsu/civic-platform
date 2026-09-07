@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ai-federal-contract-indirect-rate-reconciliation",
+    "name": "Federal contract indirect rate reconciliation",
+    "sourceProject": "ai-federal-contract-indirect-rate-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-government-contract-incurred-cost-compliance",
+    "name": "Government contract incurred cost compliance",
+    "sourceProject": "ai-government-contract-incurred-cost-compliance",
+    "services": []
+  },
+  {
+    "id": "ai-jury-administration-and-service-scheduling",
+    "name": "Jury administration and service scheduling",
+    "sourceProject": "ai-jury-administration-and-service-scheduling",
+    "services": []
+  },
+  {
+    "id": "ai-medicaid-redetermination-operations",
+    "name": "Medicaid redetermination operations",
+    "sourceProject": "ai-medicaid-redetermination-operations",
+    "services": []
+  },
+  {
+    "id": "ai-victim-compensation-case-operations",
+    "name": "Victim compensation case operations",
+    "sourceProject": "ai-victim-compensation-case-operations",
+    "services": []
+  },
+  {
+    "id": "AICitizenchatbot",
+    "name": "Citizenchatbot",
+    "sourceProject": "AICitizenchatbot",
+    "services": []
+  },
+  {
+    "id": "AIElectionIntegrityMonitor",
+    "name": "Election integrity monitor",
+    "sourceProject": "AIElectionIntegrityMonitor",
+    "services": []
+  },
+  {
+    "id": "AIElectionPollWorkerOps",
+    "name": "Election poll worker ops",
+    "sourceProject": "AIElectionPollWorkerOps",
+    "services": []
+  },
+  {
+    "id": "AIInparkdigitalassistant",
+    "name": "Inparkdigitalassistant",
+    "sourceProject": "AIInparkdigitalassistant",
+    "services": []
+  },
+  {
+    "id": "AIPublicTransitOptimizer",
+    "name": "Public transit optimizer",
+    "sourceProject": "AIPublicTransitOptimizer",
+    "services": []
+  },
+  {
+    "id": "AISmartCityTrafficSignal",
+    "name": "Smart city traffic signal",
+    "sourceProject": "AISmartCityTrafficSignal",
+    "services": []
+  },
+  {
+    "id": "AIUrbanPlanningZoningSimulator",
+    "name": "Urban planning zoning simulator",
+    "sourceProject": "AIUrbanPlanningZoningSimulator",
+    "services": []
+  },
+  {
+    "id": "government_contracts",
+    "name": "Government contracts",
+    "sourceProject": "government_contracts",
+    "services": []
+  },
+  {
+    "id": "government_contracts_v2",
+    "name": "Government contracts v2",
+    "sourceProject": "government_contracts_v2",
+    "services": []
+  }
+]

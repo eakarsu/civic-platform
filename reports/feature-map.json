@@ -1,0 +1,3013 @@
+{
+  "mapped": [
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "contract-clause-library",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "contract-clause-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "fiscal-year-rate-structure",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "fiscal-year-rate-structure",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "direct-cost-ingestion",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "direct-cost-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "fringe-pool-calculation",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "fringe-pool-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "overhead-pool-calculation",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "overhead-pool-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "ganda-pool-calculation",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "ganda-pool-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "allocation-base-validation",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "allocation-base-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "unallowable-cost-exclusion",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "unallowable-cost-exclusion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "provisional-billing-reconciliation",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "provisional-billing-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "final-rate-calculation",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "final-rate-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "funding-ceiling-control",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "funding-ceiling-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "completion-invoice-preparation",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "completion-invoice-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "government-negotiation-support",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "government-negotiation-support",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "cash-recovery-tracking",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "cash-recovery-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "contract-rate-analytics",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/app.config.mjs",
+      "canonical": "contract-rate-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-contract-incurred-cost-compliance",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-government-contract-incurred-cost-compliance/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-contract-incurred-cost-compliance",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-government-contract-incurred-cost-compliance/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-contract-incurred-cost-compliance",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-government-contract-incurred-cost-compliance/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "JuryTerm",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "jury-term",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "JurorRecord",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "juror-record",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "JurorQuestionnaire",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "juror-questionnaire",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "SummonsBatch",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "summons-batch",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "JurorSummons",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "juror-summons",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "ServiceRequest",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "service-request",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "ClerkDecision",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "clerk-decision",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "JurorAttendance",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "juror-attendance",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "JurorPayment",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "juror-payment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "questionnaire-completeness-review",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "questionnaire-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "deferral-request-summary",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "deferral-request-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "accommodation-request-organization",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "accommodation-request-organization",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "service-instruction-draft",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "service-instruction-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "attendance-discrepancy-review",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "attendance-discrepancy-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "payment-explanation-draft",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "payment-explanation-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-medicaid-redetermination-operations",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-medicaid-redetermination-operations/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-medicaid-redetermination-operations",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-medicaid-redetermination-operations/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-medicaid-redetermination-operations",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-medicaid-redetermination-operations/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "CompensationCase",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "compensation-case",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "ExpenseClaim",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "expense-claim",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "PayerOffset",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "payer-offset",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "CaseDocument",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "case-document",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "EligibilityReview",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "eligibility-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "ExpenseDecision",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "expense-decision",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "AwardDecision",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "award-decision",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "CasePayment",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "case-payment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "CompensationAppeal",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "compensation-appeal",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "expense-document-extraction",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "expense-document-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "offset-reconciliation-brief",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "offset-reconciliation-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "application-completeness-review",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "application-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "reviewer-decision-preparation",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "reviewer-decision-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "award-explanation-draft",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "award-explanation-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "appeal-evidence-organization",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "appeal-evidence-organization",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "/api/documents",
+      "source": "/Volumes/external/projects/AICitizenchatbot/frontend/src/config/features.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "/api/meetings",
+      "source": "/Volumes/external/projects/AICitizenchatbot/frontend/src/config/features.js",
+      "canonical": "api-meetings",
+      "kind": "definition"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "/api/announcements",
+      "source": "/Volumes/external/projects/AICitizenchatbot/frontend/src/config/features.js",
+      "canonical": "api-announcements",
+      "kind": "definition"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "/api/departments",
+      "source": "/Volumes/external/projects/AICitizenchatbot/frontend/src/config/features.js",
+      "canonical": "api-departments",
+      "kind": "definition"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "/api/services",
+      "source": "/Volumes/external/projects/AICitizenchatbot/frontend/src/config/features.js",
+      "canonical": "api-services",
+      "kind": "definition"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "/api/faqs",
+      "source": "/Volumes/external/projects/AICitizenchatbot/frontend/src/config/features.js",
+      "canonical": "api-faqs",
+      "kind": "definition"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "/api/events",
+      "source": "/Volumes/external/projects/AICitizenchatbot/frontend/src/config/features.js",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "/api/contacts",
+      "source": "/Volumes/external/projects/AICitizenchatbot/frontend/src/config/features.js",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "/api/permits",
+      "source": "/Volumes/external/projects/AICitizenchatbot/frontend/src/config/features.js",
+      "canonical": "api-permits",
+      "kind": "definition"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "/api/ordinances",
+      "source": "/Volumes/external/projects/AICitizenchatbot/frontend/src/config/features.js",
+      "canonical": "api-ordinances",
+      "kind": "definition"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "chatbot",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "chatbot",
+      "kind": "route"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "service-finder",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "service-finder",
+      "kind": "route"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "complaint-classifier",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "complaint-classifier",
+      "kind": "route"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "appointment-helper",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "appointment-helper",
+      "kind": "route"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "permit-guide",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "permit-guide",
+      "kind": "route"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "resource-navigator",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "resource-navigator",
+      "kind": "route"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "multi-language",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "multi-language",
+      "kind": "route"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "accessibility",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "accessibility",
+      "kind": "route"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "feedback",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "feedback",
+      "kind": "route"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "admin-analytics",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "admin-analytics",
+      "kind": "route"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "exports",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "exports",
+      "kind": "route"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "permit-eligibility",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "permit-eligibility",
+      "kind": "route"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "categorize-feedback",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "categorize-feedback",
+      "kind": "route"
+    },
+    {
+      "project": "AICitizenchatbot",
+      "sourceKey": "service-sla-escalation",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "canonical": "service-sla-escalation",
+      "kind": "route"
+    },
+    {
+      "project": "AIElectionIntegrityMonitor",
+      "sourceKey": "ballot-counts",
+      "source": "/Volumes/external/projects/AIElectionIntegrityMonitor/client/src/App.jsx",
+      "canonical": "ballot-counts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionIntegrityMonitor",
+      "sourceKey": "redistricting",
+      "source": "/Volumes/external/projects/AIElectionIntegrityMonitor/client/src/App.jsx",
+      "canonical": "redistricting",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionIntegrityMonitor",
+      "sourceKey": "voter-registration",
+      "source": "/Volumes/external/projects/AIElectionIntegrityMonitor/client/src/App.jsx",
+      "canonical": "voter-registration",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionIntegrityMonitor",
+      "sourceKey": "campaign-finance",
+      "source": "/Volumes/external/projects/AIElectionIntegrityMonitor/client/src/App.jsx",
+      "canonical": "campaign-finance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionIntegrityMonitor",
+      "sourceKey": "ai-ballot-integrity",
+      "source": "/Volumes/external/projects/AIElectionIntegrityMonitor/client/src/App.jsx",
+      "canonical": "ballot-integrity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionIntegrityMonitor",
+      "sourceKey": "ai-campaign-finance",
+      "source": "/Volumes/external/projects/AIElectionIntegrityMonitor/client/src/App.jsx",
+      "canonical": "campaign-finance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionIntegrityMonitor",
+      "sourceKey": "ai-voter-audit",
+      "source": "/Volumes/external/projects/AIElectionIntegrityMonitor/client/src/App.jsx",
+      "canonical": "voter-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionIntegrityMonitor",
+      "sourceKey": "ai-gerrymandering",
+      "source": "/Volumes/external/projects/AIElectionIntegrityMonitor/client/src/App.jsx",
+      "canonical": "gerrymandering",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionIntegrityMonitor",
+      "sourceKey": "ballot-cure-queue",
+      "source": "/Volumes/external/projects/AIElectionIntegrityMonitor/client/src/App.jsx",
+      "canonical": "ballot-cure-queue",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/precincts",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "precincts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/poll-workers",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "poll-workers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ballots",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "ballots",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/chain-of-custody",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "chain-of-custody",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/training-sessions",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "training-sessions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/voter-lines",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "voter-lines",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/incident-reports",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "incident-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/election-judges",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "election-judges",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/recounts",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "recounts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/observers",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "observers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/supplies",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "supplies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/vehicles",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "vehicles",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ballot-drop-boxes",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "ballot-drop-boxes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/accessibility-audits",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "accessibility-audits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/language-support",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "language-support",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/transmissions",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "transmissions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/line-wait-forecast",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "line-wait-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/equipment-reallocate",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "equipment-reallocate",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/incident-triage",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "incident-triage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/recount-readiness-brief",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "recount-readiness-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/chain-of-custody-anomaly",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "chain-of-custody-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/executive-brief",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "executive-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/poll-worker-schedule",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "poll-worker-schedule",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/language-support-plan",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "language-support-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/accessibility-gap-analyze",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "accessibility-gap-analyze",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/observer-coordination",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "observer-coordination",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/supply-resupply-plan",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "supply-resupply-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/transmission-anomaly",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "transmission-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/ballot-routing",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "ballot-routing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/training-gap-analysis",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "training-gap-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/voter-communication-draft",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "voter-communication-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "/ai/post-election-report",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps/frontend/src/pages/Dashboard.js",
+      "canonical": "post-election-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "ai/training-qa-copilot",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps",
+      "canonical": "training-qa-copilot",
+      "kind": "route"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "ai/incident-report-draft",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps",
+      "canonical": "incident-report-draft",
+      "kind": "route"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "ai/disinformation-quiz-generate",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps",
+      "canonical": "disinformation-quiz-generate",
+      "kind": "route"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "ai/rules-translate",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps",
+      "canonical": "rules-translate",
+      "kind": "route"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "ai-approvals",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps",
+      "canonical": "approvals",
+      "kind": "route"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "sourceKey": "poll-worker-break-coverage",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps",
+      "canonical": "poll-worker-break-coverage",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "wait-time-prediction",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/AdvancedAITools.js",
+      "canonical": "wait-time-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "crowd-flow-recommendation",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/AdvancedAITools.js",
+      "canonical": "crowd-flow-recommendation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "accessibility-recommendations",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/AdvancedAITools.js",
+      "canonical": "accessibility-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "dining-queue-prediction",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/AdvancedAITools.js",
+      "canonical": "dining-queue-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "concierge-plan",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/AdvancedAITools.js",
+      "canonical": "concierge-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "upsell-recommendation",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/AdvancedAITools.js",
+      "canonical": "upsell-recommendation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "Rides",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/FeatureList.js",
+      "canonical": "rides",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "Shows & Entertainment",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/FeatureList.js",
+      "canonical": "shows-entertainment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "Dining",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/FeatureList.js",
+      "canonical": "dining",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "Attractions",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/FeatureList.js",
+      "canonical": "attractions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "Events",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/FeatureList.js",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "Gift Shops",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/FeatureList.js",
+      "canonical": "gift-shops",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "Facilities",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/FeatureList.js",
+      "canonical": "facilities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "Park Zones",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/FeatureList.js",
+      "canonical": "park-zones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "Tickets & Passes",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant/frontend/src/pages/FeatureList.js",
+      "canonical": "tickets-passes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "cf-agentic-personal-concierge-building-itin",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "agentic-personal-concierge-building-itin",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "cf-real-time-crowd-intelligence-ingesting-w",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "real-time-crowd-intelligence-ingesting-w",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "cf-dynamic-pricing-ai-extending-dynamicpric",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "dynamic-pricing-ai-extending-dynamicpric",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "cf-accessibility-inclusivity-recommender-fo",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "accessibility-inclusivity-recommender-fo",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "cf-group-planning-ai-extending-groupplannin",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "group-planning-ai-extending-groupplannin",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "cf-upsell-merchandise-recommender-learning-",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "upsell-merchandise-recommender-learning",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "gap-no-wait-time-prediction-ai",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "wait-time-prediction-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "gap-no-crowd-flow-recommendation",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "crowd-flow-recommendation",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "gap-no-dining-queue-prediction",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "dining-queue-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "gap-no-accessibility-recommender",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "accessibility-recommender",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "gap-live-wait-time-data-ingestion-still",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "live-wait-time-data-ingestion-still",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "gap-no-mobile-push-notifications",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "mobile-push-notifications",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "gap-no-webhook-surface-for-ticket-scan",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "webhook-surface-for-ticket-scan",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "gap-no-audit-log-0-references",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "audit-log-0-references",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "gap-no-file-upload-for-guest-photo",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "file-upload-for-guest-photo",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "rides",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "rides",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "shows",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "shows",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "restaurants",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "restaurants",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "attractions",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "attractions",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "events",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "calendar",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "gift-shops",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "gift-shops",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "facilities",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "facilities",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "park-zones",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "park-zones",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "tickets",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "tickets",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "ai-assistant",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "assistant",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "pass5-tools",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "pass5-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "sourceKey": "itinerary-heat-stress-guard",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "canonical": "itinerary-heat-stress-guard",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/routes",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "routes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/ridership",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "ridership",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/schedules",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "schedules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/fares",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "fares",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/accessibility",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "accessibility",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/fleet",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "fleet",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/budgets",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "budgets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/staff",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "staff",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/performance",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "performance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/stops",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "stops",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/feedback",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "feedback",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/energy",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "energy",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/safety",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "safety",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/rider-chat",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "rider-chat",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/demand-forecast",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "demand-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/equity-report",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "equity-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/gtfs-import",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "gtfs-import",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/crowding-prediction",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "crowding-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "/maintenance-triage",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "maintenance-triage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "cf-dynamic-pricing",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "dynamic-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "cf-climateresponsive-operations",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "climateresponsive-operations",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "cf-equity-impact-simulation",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "equity-impact-simulation",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "cf-autonomous-shuttle-planner",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "autonomous-shuttle-planner",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "cf-intermodal-trip-planner",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "intermodal-trip-planner",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "cf-behavioral-nudging",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "behavioral-nudging",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "gap-no-crowdingprediction-peak-loads-by-stoptime",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "crowdingprediction-peak-loads-by-stoptime",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "gap-no-maintenancetriage-uptimemaximizing-priori",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "maintenancetriage-uptimemaximizing-priori",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "gap-no-accessibilitycompliancecheck-audit-agains",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "accessibilitycompliancecheck-audit-agains",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "gap-no-staffingshiftoptimization-preferenceaware",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "staffingshiftoptimization-preferenceaware",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "gap-existing-equityreport-is-shallow-compared-to",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "existing-equityreport-is-shallow-compared-to",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "gap-no-realtime-passenger-alertsannouncements-sm",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "realtime-passenger-alertsannouncements-sm",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "gap-no-fare-payment-mobile-ticketing-integration",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "fare-payment-mobile-ticketing-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "gap-no-operator-scheduling-conflict-detection",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "operator-scheduling-conflict-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "gap-no-servicechange-impact-modeling-route-x-dis",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "servicechange-impact-modeling-route-x-dis",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "gap-no-public-webhookopen-data-api",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "public-webhookopen-data-api",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "gap-no-notifications-system-for-staff",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "notifications-system-for-staff",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "sourceKey": "gap-no-audit-log-of-dispatch-decisions",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "canonical": "audit-log-of-dispatch-decisions",
+      "kind": "route"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/intersections",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "intersections",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/signals",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "signals",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/detectors",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "detectors",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/signal-plans",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "signal-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/transit-priorities",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "transit-priorities",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/emergency-preemptions",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "emergency-preemptions",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/pedestrian-phases",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "pedestrian-phases",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/bike-phases",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "bike-phases",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/work-zones",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "work-zones",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/special-events",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "special-events",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/signal-groups",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "signal-groups",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/communications-cabinets",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "communications-cabinets",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/sensors-health",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "sensors-health",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/video-feeds",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "video-feeds",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/controllers",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "controllers",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/performance-metrics",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "performance-metrics",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/incident-aware-retime",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "incident-aware-retime",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/ped-conflict-detect",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "ped-conflict-detect",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/transit-priority-suggest",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "transit-priority-suggest",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/work-zone-signal-plan",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "work-zone-signal-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/special-event-signal-plan",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "special-event-signal-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/corridor-coordination",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "corridor-coordination",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/intersection-prioritize",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "intersection-prioritize",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/work-order-draft",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "work-order-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/executive-brief",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "executive-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/signal-health-prognostic",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "signal-health-prognostic",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/equity-impact-brief",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "equity-impact-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/emission-impact-estimate",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "emission-impact-estimate",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/citizen-complaint-summary",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "citizen-complaint-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/sensor-anomaly",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "sensor-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/performance-anomaly",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "performance-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "/ai/vendor-quality-score",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal/frontend/src/pages/Dashboard.js",
+      "canonical": "vendor-quality-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "ai/congestion-forecast",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal",
+      "canonical": "congestion-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "ai/signal-timing-optimize",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal",
+      "canonical": "signal-timing-optimize",
+      "kind": "route"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "ai/emergency-preempt-sequence",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal",
+      "canonical": "emergency-preempt-sequence",
+      "kind": "route"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "ai/incident-response-coordinate",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal",
+      "canonical": "incident-response-coordinate",
+      "kind": "route"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "ai/equity-response-time",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal",
+      "canonical": "equity-response-time",
+      "kind": "route"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "equity-neighborhoods",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal",
+      "canonical": "equity-neighborhoods",
+      "kind": "route"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "sourceKey": "public",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal",
+      "canonical": "public",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "/api/traffic-simulations",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator/client/src/pages/Dashboard.js",
+      "canonical": "api-traffic-simulations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "/api/population-density",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator/client/src/pages/Dashboard.js",
+      "canonical": "api-population-density",
+      "kind": "definition"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "/api/infrastructure-impact",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator/client/src/pages/Dashboard.js",
+      "canonical": "api-infrastructure-impact",
+      "kind": "definition"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "/api/zoning-compliance",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator/client/src/pages/Dashboard.js",
+      "canonical": "api-zoning-compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "/api/environmental-assessments",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator/client/src/pages/Dashboard.js",
+      "canonical": "api-environmental-assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "/api/noise-analysis",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator/client/src/pages/Dashboard.js",
+      "canonical": "api-noise-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "/api/green-space",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator/client/src/pages/Dashboard.js",
+      "canonical": "api-green-space",
+      "kind": "definition"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "/api/land-use",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator/client/src/pages/Dashboard.js",
+      "canonical": "api-land-use",
+      "kind": "definition"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "/api/building-permits",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator/client/src/pages/Dashboard.js",
+      "canonical": "api-building-permits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "/api/district-zones",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator/client/src/pages/Dashboard.js",
+      "canonical": "api-district-zones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "/api/transportation-routes",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator/client/src/pages/Dashboard.js",
+      "canonical": "api-transportation-routes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "/api/public-facilities",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator/client/src/pages/Dashboard.js",
+      "canonical": "api-public-facilities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "traffic-simulations",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "traffic-simulations",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "population-density",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "population-density",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "infrastructure-impact",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "infrastructure-impact",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "zoning-compliance",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "api-zoning-compliance",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "environmental-assessments",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "environmental-assessments",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "noise-analysis",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "noise-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "green-space",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "green-space",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "land-use",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "land-use",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "building-permits",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "api-building-permits",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "district-zones",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "api-district-zones",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "transportation-routes",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "api-transportation-routes",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "public-facilities",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "api-public-facilities",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "gis-map",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "gis-map",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "simulator",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "simulator",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "compliance-engine",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "compliance-engine",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "citizen-portal",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "citizen-portal",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "scenario-workbench",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "scenario-workbench",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "ai-advisor",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "advisor",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "cf-zoning-scenario-optimizer-maximizing-affordable-housing-commercial-green-space",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "zoning-scenario-optimizer-maximizing-affordable-housing-commercial-green-space",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "cf-infrastructure-impact-predictor-for-schools-utilities-transit",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "infrastructure-impact-predictor-for-schools-utilities-transit",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "cf-environmental-compliance-checker-for-nepa-wetlands-endangered-species",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "environmental-compliance-checker-for-nepa-wetlands-endangered-species",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "cf-community-benefit-analyzer-quantifying-jobs-tax-housing-impact",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "community-benefit-analyzer-quantifying-jobs-tax-housing-impact",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "cf-historic-preservation-advisor-flagging-districts-and-compatible-development",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "historic-preservation-advisor-flagging-districts-and-compatible-development",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "cf-public-comment-moderation-pipeline-with-sentiment-analysis",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "public-comment-moderation-pipeline-with-sentiment-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "gap-critical-only-1-ai-endpoint-despite-scenario-compliance",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "critical-only-1-ai-endpoint-despite-scenario-compliance",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "gap-no-conversational-planning-copilot-for-citizens-or-officials",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "conversational-planning-copilot-for-citizens-or-officials",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "gap-no-predictive-permit-approval-ml",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "predictive-permit-approval-ml",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "gap-no-real-time-gis-integration-arcgis-qgis",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "real-time-gis-integration-arcgis-qgis",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "gap-no-public-comment-stakeholder-feedback-system",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "public-comment-stakeholder-feedback-system",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "gap-no-multi-year-zoning-amendment-tracking",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "multi-year-zoning-amendment-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "gap-no-density-far-calculation-utility",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "density-far-calculation-utility",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "gap-no-webhooks-notifications",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "webhooks-notifications",
+      "kind": "route"
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "sourceKey": "gap-no-public-portal-citizen-self-service",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "canonical": "public-portal-citizen-self-service",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts",
+      "sourceKey": "/saved-searches",
+      "source": "/Volumes/external/projects/government_contracts/react/src/components/common/Sidebar.js",
+      "canonical": "saved-searches",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts",
+      "sourceKey": "/applications",
+      "source": "/Volumes/external/projects/government_contracts/react/src/components/common/Sidebar.js",
+      "canonical": "applications",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts",
+      "sourceKey": "/decision-center",
+      "source": "/Volumes/external/projects/government_contracts/react/src/components/common/Sidebar.js",
+      "canonical": "decision-center",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts",
+      "sourceKey": "missing-features",
+      "source": "/Volumes/external/projects/government_contracts",
+      "canonical": "missing-features",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts",
+      "sourceKey": "production-readiness",
+      "source": "/Volumes/external/projects/government_contracts",
+      "canonical": "production-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/nlp-search",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "nlp-search",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/jobs",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "jobs",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/api-docs",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "api-docs",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/rfp",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "rfp",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/rfp/company-profiles",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "rfp-company-profiles",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/rfp/templates",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "rfp-templates",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/rfp/responses",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "applications",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/rfp/analytics",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "rfp-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/lifecycle",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "lifecycle",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/lifecycle/matters",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "lifecycle-matters",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/lifecycle/parties",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/lifecycle/document-versions",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/lifecycle/clauses",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "lifecycle-clauses",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/lifecycle/obligations",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "lifecycle-obligations",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/lifecycle/amendments",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "lifecycle-amendments",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/lifecycle/approvals",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "approvals",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/lifecycle/renewals",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "lifecycle-renewals",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/lifecycle/risk-assessments",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "lifecycle-risk-assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/contract-suite",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "contract-suite",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/contract-suite/acquisition",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "contract-suite-acquisition",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/contract-suite/negotiation",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "contract-suite-negotiation",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/contract-suite/vendor-risk",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "contract-suite-vendor-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/contract-suite/smart-contract",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "contract-suite-smart-contract",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "/contract-suite/sports",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "canonical": "contract-suite-sports",
+      "kind": "definition"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "governance",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "canonical": "governance",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "rfp/dashboard",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "canonical": "rfp-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "rfp/generate",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "canonical": "rfp-generate",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "ai/quick-actions",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "canonical": "quick-actions",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "ai/proposal-drafter",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "canonical": "proposal-drafter",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "ai/bid-analyzer",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "canonical": "bid-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "win-probability",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "canonical": "win-probability",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "similar-contracts",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "canonical": "similar-contracts",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "opportunity-predictions",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "canonical": "opportunity-predictions",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "opportunity-alerts",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "canonical": "opportunity-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "optimize-strategy",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "canonical": "optimize-strategy",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "comprehensive-analysis",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "canonical": "comprehensive-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "government_contracts_v2",
+      "sourceKey": "batch-analysis",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "canonical": "batch-analysis",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-federal-contract-indirect-rate-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-federal-contract-indirect-rate-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-jury-administration-and-service-scheduling",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-jury-administration-and-service-scheduling/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-victim-compensation-case-operations",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-victim-compensation-case-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICitizenchatbot",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICitizenchatbot",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICitizenchatbot",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICitizenchatbot",
+      "key": "login",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICitizenchatbot",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICitizenchatbot",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICitizenchatbot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICitizenchatbot",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIElectionIntegrityMonitor",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIElectionIntegrityMonitor/client/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIElectionPollWorkerOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIElectionPollWorkerOps",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "/rides/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "/shows/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "/restaurants/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "/attractions/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "/events/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "/gift-shops/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "/facilities/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "/park-zones/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "/tickets/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "advanced-ai",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInparkdigitalassistant",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIInparkdigitalassistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer/frontend/src/pages/Dashboard.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPublicTransitOptimizer",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIPublicTransitOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "key": "login",
+      "source": "/Volumes/external/projects/AISmartCityTrafficSignal",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISmartCityTrafficSignal",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIUrbanPlanningZoningSimulator",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIUrbanPlanningZoningSimulator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "government_contracts",
+      "key": "/",
+      "source": "/Volumes/external/projects/government_contracts/react/src/components/common/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "government_contracts",
+      "key": "/search",
+      "source": "/Volumes/external/projects/government_contracts/react/src/components/common/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "government_contracts",
+      "key": "/profile",
+      "source": "/Volumes/external/projects/government_contracts/react/src/components/common/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "government_contracts",
+      "key": "login",
+      "source": "/Volumes/external/projects/government_contracts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "government_contracts",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts",
+      "key": "search",
+      "source": "/Volumes/external/projects/government_contracts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "government_contracts",
+      "key": "contract/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts",
+      "key": "form-generator/:contractId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts",
+      "key": "profile",
+      "source": "/Volumes/external/projects/government_contracts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "/",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "/search",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/government_contracts_v2/client/src/components/Layout/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "search",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "/contracts/:noticeId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "operations",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "/lifecycle/:resource",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "/contract-suite/:domain",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "/rfp/responses/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "/rfp/responses/:id/edit",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "/ai/analysis-results/:contractId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "/ai/win-probability/:contractId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "/ai/similar-contracts/:contractId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "/ai/bid-strategy/:contractId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "preferences",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "/preferences/:userId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "government_contracts_v2",
+      "key": "health",
+      "source": "/Volumes/external/projects/government_contracts_v2",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "contract-clause-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fiscal-year-rate-structure",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "direct-cost-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fringe-pool-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "overhead-pool-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ganda-pool-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "allocation-base-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "unallowable-cost-exclusion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "provisional-billing-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "final-rate-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "funding-ceiling-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "completion-invoice-preparation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "government-negotiation-support",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-recovery-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "contract-rate-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "contacts",
+      "field": "email",
+      "reason": "Conflicting source field types retained in source map; native field keeps first definition."
+    },
+    {
+      "feature": "calendar",
+      "field": "event_type",
+      "reason": "Conflicting source field types retained in source map; native field keeps first definition."
+    }
+  ]
+}

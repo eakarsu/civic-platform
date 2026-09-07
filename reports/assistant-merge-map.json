@@ -1,0 +1,843 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "service-instruction-draft",
+      "operations-handoff-draft",
+      "expense-document-extraction",
+      "award-explanation-draft",
+      "voter-communication-draft",
+      "incident-report-draft",
+      "rules-translate",
+      "work-order-draft",
+      "proposal-drafter"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 12 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "service-instruction-draft",
+        "title": "Service instruction draft",
+        "originalPath": "/features/service-instruction-draft"
+      },
+      {
+        "id": "operations-handoff-draft",
+        "title": "Operations handoff draft",
+        "originalPath": "/features/operations-handoff-draft"
+      },
+      {
+        "id": "expense-document-extraction",
+        "title": "Expense document extraction",
+        "originalPath": "/features/expense-document-extraction"
+      },
+      {
+        "id": "award-explanation-draft",
+        "title": "Award explanation draft",
+        "originalPath": "/features/award-explanation-draft"
+      },
+      {
+        "id": "voter-communication-draft",
+        "title": "AI · Voter Communication Draft",
+        "originalPath": "/features/voter-communication-draft"
+      },
+      {
+        "id": "incident-report-draft",
+        "title": "Incident report draft",
+        "originalPath": "/features/incident-report-draft"
+      },
+      {
+        "id": "rules-translate",
+        "title": "Rules translate",
+        "originalPath": "/features/rules-translate"
+      },
+      {
+        "id": "work-order-draft",
+        "title": "AI · Work Order Draft",
+        "originalPath": "/features/work-order-draft"
+      },
+      {
+        "id": "proposal-drafter",
+        "title": "Proposal drafter",
+        "originalPath": "/features/proposal-drafter"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "contract-clause-library",
+      "fiscal-year-rate-structure",
+      "fringe-pool-calculation",
+      "overhead-pool-calculation",
+      "ganda-pool-calculation",
+      "final-rate-calculation",
+      "government-negotiation-support",
+      "cash-recovery-tracking",
+      "contract-rate-analytics",
+      "juror-questionnaire",
+      "questionnaire-completeness-review",
+      "deferral-request-summary",
+      "accommodation-request-organization",
+      "attendance-discrepancy-review",
+      "expense-claim",
+      "application-completeness-review",
+      "reviewer-decision-preparation",
+      "admin-analytics",
+      "ballot-integrity",
+      "gerrymandering",
+      "equipment-reallocate",
+      "incident-triage",
+      "recount-readiness-brief",
+      "executive-brief",
+      "language-support-plan",
+      "observer-coordination",
+      "supply-resupply-plan",
+      "ballot-routing",
+      "post-election-report",
+      "training-qa-copilot",
+      "disinformation-quiz-generate",
+      "approvals",
+      "concierge-plan",
+      "group-planning-ai-extending-groupplannin",
+      "live-wait-time-data-ingestion-still",
+      "assistant",
+      "maintenancetriage-uptimemaximizing-priori",
+      "incident-aware-retime",
+      "transit-priority-suggest",
+      "work-zone-signal-plan",
+      "special-event-signal-plan",
+      "corridor-coordination",
+      "intersection-prioritize",
+      "signal-health-prognostic",
+      "equity-impact-brief",
+      "emission-impact-estimate",
+      "citizen-complaint-summary",
+      "emergency-preempt-sequence",
+      "incident-response-coordinate",
+      "equity-response-time",
+      "api-traffic-simulations",
+      "api-population-density",
+      "api-environmental-assessments",
+      "api-green-space",
+      "environmental-assessments",
+      "advisor",
+      "rfp-analytics",
+      "quick-actions"
+    ],
+    "ai": true,
+    "representativeId": "contract-clause-library",
+    "description": "One assistant for 58 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "contract-clause-library",
+        "title": "Contract clause library",
+        "originalPath": "/features/contract-clause-library"
+      },
+      {
+        "id": "fiscal-year-rate-structure",
+        "title": "Fiscal year rate structure",
+        "originalPath": "/features/fiscal-year-rate-structure"
+      },
+      {
+        "id": "fringe-pool-calculation",
+        "title": "Fringe pool calculation",
+        "originalPath": "/features/fringe-pool-calculation"
+      },
+      {
+        "id": "overhead-pool-calculation",
+        "title": "Overhead pool calculation",
+        "originalPath": "/features/overhead-pool-calculation"
+      },
+      {
+        "id": "ganda-pool-calculation",
+        "title": "G&A pool calculation",
+        "originalPath": "/features/ganda-pool-calculation"
+      },
+      {
+        "id": "final-rate-calculation",
+        "title": "Final rate calculation",
+        "originalPath": "/features/final-rate-calculation"
+      },
+      {
+        "id": "government-negotiation-support",
+        "title": "Government negotiation support",
+        "originalPath": "/features/government-negotiation-support"
+      },
+      {
+        "id": "cash-recovery-tracking",
+        "title": "Cash recovery tracking",
+        "originalPath": "/features/cash-recovery-tracking"
+      },
+      {
+        "id": "contract-rate-analytics",
+        "title": "Contract rate analytics",
+        "originalPath": "/features/contract-rate-analytics"
+      },
+      {
+        "id": "juror-questionnaire",
+        "title": "Juror Questionnaire",
+        "originalPath": "/features/juror-questionnaire"
+      },
+      {
+        "id": "questionnaire-completeness-review",
+        "title": "Questionnaire completeness review",
+        "originalPath": "/features/questionnaire-completeness-review"
+      },
+      {
+        "id": "deferral-request-summary",
+        "title": "Deferral request summary",
+        "originalPath": "/features/deferral-request-summary"
+      },
+      {
+        "id": "accommodation-request-organization",
+        "title": "Accommodation request organization",
+        "originalPath": "/features/accommodation-request-organization"
+      },
+      {
+        "id": "attendance-discrepancy-review",
+        "title": "Attendance discrepancy review",
+        "originalPath": "/features/attendance-discrepancy-review"
+      },
+      {
+        "id": "expense-claim",
+        "title": "Expense Claim",
+        "originalPath": "/features/expense-claim"
+      },
+      {
+        "id": "application-completeness-review",
+        "title": "Application completeness review",
+        "originalPath": "/features/application-completeness-review"
+      },
+      {
+        "id": "reviewer-decision-preparation",
+        "title": "Reviewer decision preparation",
+        "originalPath": "/features/reviewer-decision-preparation"
+      },
+      {
+        "id": "admin-analytics",
+        "title": "Admin analytics",
+        "originalPath": "/features/admin-analytics"
+      },
+      {
+        "id": "ballot-integrity",
+        "title": "AI Ballot Integrity",
+        "originalPath": "/features/ballot-integrity"
+      },
+      {
+        "id": "gerrymandering",
+        "title": "AI Gerrymandering",
+        "originalPath": "/features/gerrymandering"
+      },
+      {
+        "id": "equipment-reallocate",
+        "title": "AI · Equipment Reallocate",
+        "originalPath": "/features/equipment-reallocate"
+      },
+      {
+        "id": "incident-triage",
+        "title": "AI · Incident Triage",
+        "originalPath": "/features/incident-triage"
+      },
+      {
+        "id": "recount-readiness-brief",
+        "title": "AI · Recount Readiness Brief",
+        "originalPath": "/features/recount-readiness-brief"
+      },
+      {
+        "id": "executive-brief",
+        "title": "AI · Executive Brief",
+        "originalPath": "/features/executive-brief"
+      },
+      {
+        "id": "language-support-plan",
+        "title": "AI · Language Support Plan",
+        "originalPath": "/features/language-support-plan"
+      },
+      {
+        "id": "observer-coordination",
+        "title": "AI · Observer Coordination",
+        "originalPath": "/features/observer-coordination"
+      },
+      {
+        "id": "supply-resupply-plan",
+        "title": "AI · Supply Resupply Plan",
+        "originalPath": "/features/supply-resupply-plan"
+      },
+      {
+        "id": "ballot-routing",
+        "title": "AI · Ballot Routing",
+        "originalPath": "/features/ballot-routing"
+      },
+      {
+        "id": "post-election-report",
+        "title": "AI · Post-Election Report",
+        "originalPath": "/features/post-election-report"
+      },
+      {
+        "id": "training-qa-copilot",
+        "title": "Training qa copilot",
+        "originalPath": "/features/training-qa-copilot"
+      },
+      {
+        "id": "disinformation-quiz-generate",
+        "title": "Disinformation quiz generate",
+        "originalPath": "/features/disinformation-quiz-generate"
+      },
+      {
+        "id": "approvals",
+        "title": "Approvals",
+        "originalPath": "/features/approvals"
+      },
+      {
+        "id": "concierge-plan",
+        "title": "Personal Concierge",
+        "originalPath": "/features/concierge-plan"
+      },
+      {
+        "id": "group-planning-ai-extending-groupplannin",
+        "title": "group planning ai extending groupplannin",
+        "originalPath": "/features/group-planning-ai-extending-groupplannin"
+      },
+      {
+        "id": "live-wait-time-data-ingestion-still",
+        "title": "live wait time data ingestion still",
+        "originalPath": "/features/live-wait-time-data-ingestion-still"
+      },
+      {
+        "id": "assistant",
+        "title": "Assistant",
+        "originalPath": "/features/assistant"
+      },
+      {
+        "id": "maintenancetriage-uptimemaximizing-priori",
+        "title": "maintenancetriage uptimemaximizing priori",
+        "originalPath": "/features/maintenancetriage-uptimemaximizing-priori"
+      },
+      {
+        "id": "incident-aware-retime",
+        "title": "AI · Incident-Aware Retime",
+        "originalPath": "/features/incident-aware-retime"
+      },
+      {
+        "id": "transit-priority-suggest",
+        "title": "AI · Transit Priority Suggest",
+        "originalPath": "/features/transit-priority-suggest"
+      },
+      {
+        "id": "work-zone-signal-plan",
+        "title": "AI · Work Zone Plan",
+        "originalPath": "/features/work-zone-signal-plan"
+      },
+      {
+        "id": "special-event-signal-plan",
+        "title": "AI · Special Event Plan",
+        "originalPath": "/features/special-event-signal-plan"
+      },
+      {
+        "id": "corridor-coordination",
+        "title": "AI · Corridor Coordination",
+        "originalPath": "/features/corridor-coordination"
+      },
+      {
+        "id": "intersection-prioritize",
+        "title": "AI · Intersection Prioritize",
+        "originalPath": "/features/intersection-prioritize"
+      },
+      {
+        "id": "signal-health-prognostic",
+        "title": "AI · Signal Health Prognostic",
+        "originalPath": "/features/signal-health-prognostic"
+      },
+      {
+        "id": "equity-impact-brief",
+        "title": "AI · Equity Impact",
+        "originalPath": "/features/equity-impact-brief"
+      },
+      {
+        "id": "emission-impact-estimate",
+        "title": "AI · Emission Impact",
+        "originalPath": "/features/emission-impact-estimate"
+      },
+      {
+        "id": "citizen-complaint-summary",
+        "title": "AI · Citizen Complaints",
+        "originalPath": "/features/citizen-complaint-summary"
+      },
+      {
+        "id": "emergency-preempt-sequence",
+        "title": "Emergency preempt sequence",
+        "originalPath": "/features/emergency-preempt-sequence"
+      },
+      {
+        "id": "incident-response-coordinate",
+        "title": "Incident response coordinate",
+        "originalPath": "/features/incident-response-coordinate"
+      },
+      {
+        "id": "equity-response-time",
+        "title": "Equity response time",
+        "originalPath": "/features/equity-response-time"
+      },
+      {
+        "id": "api-traffic-simulations",
+        "title": "Traffic Flow Simulation",
+        "originalPath": "/features/api-traffic-simulations"
+      },
+      {
+        "id": "api-population-density",
+        "title": "Population Density Modeling",
+        "originalPath": "/features/api-population-density"
+      },
+      {
+        "id": "api-environmental-assessments",
+        "title": "Environmental Assessment",
+        "originalPath": "/features/api-environmental-assessments"
+      },
+      {
+        "id": "api-green-space",
+        "title": "Green Space Planning",
+        "originalPath": "/features/api-green-space"
+      },
+      {
+        "id": "environmental-assessments",
+        "title": "Environmental assessments",
+        "originalPath": "/features/environmental-assessments"
+      },
+      {
+        "id": "advisor",
+        "title": "Advisor",
+        "originalPath": "/features/advisor"
+      },
+      {
+        "id": "rfp-analytics",
+        "title": "Outcome Analytics",
+        "originalPath": "/features/rfp-analytics"
+      },
+      {
+        "id": "quick-actions",
+        "title": "Quick actions",
+        "originalPath": "/features/quick-actions"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "direct-cost-ingestion",
+      "unallowable-cost-exclusion",
+      "provisional-billing-reconciliation",
+      "completion-invoice-preparation",
+      "payment-explanation-draft",
+      "offset-reconciliation-brief",
+      "dynamic-pricing-ai-extending-dynamicpric",
+      "community-benefit-analyzer-quantifying-jobs-tax-housing-impact"
+    ],
+    "ai": true,
+    "representativeId": "direct-cost-ingestion",
+    "description": "One assistant for 8 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "direct-cost-ingestion",
+        "title": "Direct cost ingestion",
+        "originalPath": "/features/direct-cost-ingestion"
+      },
+      {
+        "id": "unallowable-cost-exclusion",
+        "title": "Unallowable cost exclusion",
+        "originalPath": "/features/unallowable-cost-exclusion"
+      },
+      {
+        "id": "provisional-billing-reconciliation",
+        "title": "Provisional billing reconciliation",
+        "originalPath": "/features/provisional-billing-reconciliation"
+      },
+      {
+        "id": "completion-invoice-preparation",
+        "title": "Completion invoice preparation",
+        "originalPath": "/features/completion-invoice-preparation"
+      },
+      {
+        "id": "payment-explanation-draft",
+        "title": "Payment explanation draft",
+        "originalPath": "/features/payment-explanation-draft"
+      },
+      {
+        "id": "offset-reconciliation-brief",
+        "title": "Offset reconciliation brief",
+        "originalPath": "/features/offset-reconciliation-brief"
+      },
+      {
+        "id": "dynamic-pricing-ai-extending-dynamicpric",
+        "title": "dynamic pricing ai extending dynamicpric",
+        "originalPath": "/features/dynamic-pricing-ai-extending-dynamicpric"
+      },
+      {
+        "id": "community-benefit-analyzer-quantifying-jobs-tax-housing-impact",
+        "title": "community benefit analyzer quantifying jobs tax housing impact",
+        "originalPath": "/features/community-benefit-analyzer-quantifying-jobs-tax-housing-impact"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "allocation-base-validation",
+      "funding-ceiling-control",
+      "evidence-completeness-review",
+      "eligibility-review",
+      "appeal-evidence-organization",
+      "voter-audit",
+      "chain-of-custody-anomaly",
+      "accessibility-gap-analyze",
+      "transmission-anomaly",
+      "accessibility-recommendations",
+      "accessibility-inclusivity-recommender-fo",
+      "accessibility-recommender",
+      "accessibilitycompliancecheck-audit-agains",
+      "sensor-anomaly",
+      "performance-anomaly",
+      "vendor-quality-score",
+      "api-zoning-compliance",
+      "critical-only-1-ai-endpoint-despite-scenario-compliance",
+      "lifecycle-risk-assessments"
+    ],
+    "ai": true,
+    "representativeId": "allocation-base-validation",
+    "description": "One assistant for 19 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "allocation-base-validation",
+        "title": "Allocation base validation",
+        "originalPath": "/features/allocation-base-validation"
+      },
+      {
+        "id": "funding-ceiling-control",
+        "title": "Funding ceiling control",
+        "originalPath": "/features/funding-ceiling-control"
+      },
+      {
+        "id": "evidence-completeness-review",
+        "title": "Evidence completeness review",
+        "originalPath": "/features/evidence-completeness-review"
+      },
+      {
+        "id": "eligibility-review",
+        "title": "Eligibility Review",
+        "originalPath": "/features/eligibility-review"
+      },
+      {
+        "id": "appeal-evidence-organization",
+        "title": "Appeal evidence organization",
+        "originalPath": "/features/appeal-evidence-organization"
+      },
+      {
+        "id": "voter-audit",
+        "title": "AI Voter Audit",
+        "originalPath": "/features/voter-audit"
+      },
+      {
+        "id": "chain-of-custody-anomaly",
+        "title": "AI · Chain-of-Custody Anomaly",
+        "originalPath": "/features/chain-of-custody-anomaly"
+      },
+      {
+        "id": "accessibility-gap-analyze",
+        "title": "AI · Accessibility Gap Analyze",
+        "originalPath": "/features/accessibility-gap-analyze"
+      },
+      {
+        "id": "transmission-anomaly",
+        "title": "AI · Transmission Anomaly",
+        "originalPath": "/features/transmission-anomaly"
+      },
+      {
+        "id": "accessibility-recommendations",
+        "title": "Accessibility Recommendations",
+        "originalPath": "/features/accessibility-recommendations"
+      },
+      {
+        "id": "accessibility-inclusivity-recommender-fo",
+        "title": "accessibility inclusivity recommender fo",
+        "originalPath": "/features/accessibility-inclusivity-recommender-fo"
+      },
+      {
+        "id": "accessibility-recommender",
+        "title": "accessibility recommender",
+        "originalPath": "/features/accessibility-recommender"
+      },
+      {
+        "id": "accessibilitycompliancecheck-audit-agains",
+        "title": "accessibilitycompliancecheck audit agains",
+        "originalPath": "/features/accessibilitycompliancecheck-audit-agains"
+      },
+      {
+        "id": "sensor-anomaly",
+        "title": "AI · Sensor Anomaly",
+        "originalPath": "/features/sensor-anomaly"
+      },
+      {
+        "id": "performance-anomaly",
+        "title": "AI · Performance Anomaly",
+        "originalPath": "/features/performance-anomaly"
+      },
+      {
+        "id": "vendor-quality-score",
+        "title": "AI · Vendor Quality Score",
+        "originalPath": "/features/vendor-quality-score"
+      },
+      {
+        "id": "api-zoning-compliance",
+        "title": "Zoning Compliance",
+        "originalPath": "/features/api-zoning-compliance"
+      },
+      {
+        "id": "critical-only-1-ai-endpoint-despite-scenario-compliance",
+        "title": "critical only 1 ai endpoint despite scenario compliance",
+        "originalPath": "/features/critical-only-1-ai-endpoint-despite-scenario-compliance"
+      },
+      {
+        "id": "lifecycle-risk-assessments",
+        "title": "Risk & AI Evidence",
+        "originalPath": "/features/lifecycle-risk-assessments"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "complaint-classifier",
+      "line-wait-forecast",
+      "training-gap-analysis",
+      "wait-time-prediction",
+      "crowd-flow-recommendation",
+      "dining-queue-prediction",
+      "wait-time-prediction-ai",
+      "demand-forecast",
+      "crowding-prediction",
+      "crowdingprediction-peak-loads-by-stoptime",
+      "ped-conflict-detect",
+      "congestion-forecast",
+      "signal-timing-optimize",
+      "api-infrastructure-impact",
+      "api-noise-analysis",
+      "noise-analysis",
+      "zoning-scenario-optimizer-maximizing-affordable-housing-commercial-green-space",
+      "infrastructure-impact-predictor-for-schools-utilities-transit",
+      "predictive-permit-approval-ml",
+      "bid-analyzer",
+      "opportunity-predictions",
+      "comprehensive-analysis",
+      "batch-analysis"
+    ],
+    "ai": true,
+    "representativeId": "complaint-classifier",
+    "description": "One assistant for 23 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "complaint-classifier",
+        "title": "Complaint classifier",
+        "originalPath": "/features/complaint-classifier"
+      },
+      {
+        "id": "line-wait-forecast",
+        "title": "AI · Line Wait Forecast",
+        "originalPath": "/features/line-wait-forecast"
+      },
+      {
+        "id": "training-gap-analysis",
+        "title": "AI · Training Gap Analysis",
+        "originalPath": "/features/training-gap-analysis"
+      },
+      {
+        "id": "wait-time-prediction",
+        "title": "Wait Time Prediction",
+        "originalPath": "/features/wait-time-prediction"
+      },
+      {
+        "id": "crowd-flow-recommendation",
+        "title": "Crowd Flow Recommendation",
+        "originalPath": "/features/crowd-flow-recommendation"
+      },
+      {
+        "id": "dining-queue-prediction",
+        "title": "Dining Queue Prediction",
+        "originalPath": "/features/dining-queue-prediction"
+      },
+      {
+        "id": "wait-time-prediction-ai",
+        "title": "wait time prediction ai",
+        "originalPath": "/features/wait-time-prediction-ai"
+      },
+      {
+        "id": "demand-forecast",
+        "title": "Demand Forecast",
+        "originalPath": "/features/demand-forecast"
+      },
+      {
+        "id": "crowding-prediction",
+        "title": "Crowding Prediction",
+        "originalPath": "/features/crowding-prediction"
+      },
+      {
+        "id": "crowdingprediction-peak-loads-by-stoptime",
+        "title": "crowdingprediction peak loads by stoptime",
+        "originalPath": "/features/crowdingprediction-peak-loads-by-stoptime"
+      },
+      {
+        "id": "ped-conflict-detect",
+        "title": "AI · Ped Conflict Detect",
+        "originalPath": "/features/ped-conflict-detect"
+      },
+      {
+        "id": "congestion-forecast",
+        "title": "Congestion forecast",
+        "originalPath": "/features/congestion-forecast"
+      },
+      {
+        "id": "signal-timing-optimize",
+        "title": "Signal timing optimize",
+        "originalPath": "/features/signal-timing-optimize"
+      },
+      {
+        "id": "api-infrastructure-impact",
+        "title": "Infrastructure Impact Analysis",
+        "originalPath": "/features/api-infrastructure-impact"
+      },
+      {
+        "id": "api-noise-analysis",
+        "title": "Noise Level Analysis",
+        "originalPath": "/features/api-noise-analysis"
+      },
+      {
+        "id": "noise-analysis",
+        "title": "Noise analysis",
+        "originalPath": "/features/noise-analysis"
+      },
+      {
+        "id": "zoning-scenario-optimizer-maximizing-affordable-housing-commercial-green-space",
+        "title": "zoning scenario optimizer maximizing affordable housing commercial green space",
+        "originalPath": "/features/zoning-scenario-optimizer-maximizing-affordable-housing-commercial-green-space"
+      },
+      {
+        "id": "infrastructure-impact-predictor-for-schools-utilities-transit",
+        "title": "infrastructure impact predictor for schools utilities transit",
+        "originalPath": "/features/infrastructure-impact-predictor-for-schools-utilities-transit"
+      },
+      {
+        "id": "predictive-permit-approval-ml",
+        "title": "predictive permit approval ml",
+        "originalPath": "/features/predictive-permit-approval-ml"
+      },
+      {
+        "id": "bid-analyzer",
+        "title": "Bid analyzer",
+        "originalPath": "/features/bid-analyzer"
+      },
+      {
+        "id": "opportunity-predictions",
+        "title": "Opportunity predictions",
+        "originalPath": "/features/opportunity-predictions"
+      },
+      {
+        "id": "comprehensive-analysis",
+        "title": "Comprehensive analysis",
+        "originalPath": "/features/comprehensive-analysis"
+      },
+      {
+        "id": "batch-analysis",
+        "title": "Batch analysis",
+        "originalPath": "/features/batch-analysis"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "campaign-finance",
+      "upsell-recommendation",
+      "upsell-merchandise-recommender-learning",
+      "public-comment-moderation-pipeline-with-sentiment-analysis"
+    ],
+    "ai": true,
+    "representativeId": "campaign-finance",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "campaign-finance",
+        "title": "Campaign Finance",
+        "originalPath": "/features/campaign-finance"
+      },
+      {
+        "id": "upsell-recommendation",
+        "title": "Upsell / Merch",
+        "originalPath": "/features/upsell-recommendation"
+      },
+      {
+        "id": "upsell-merchandise-recommender-learning",
+        "title": "upsell merchandise recommender learning",
+        "originalPath": "/features/upsell-merchandise-recommender-learning"
+      },
+      {
+        "id": "public-comment-moderation-pipeline-with-sentiment-analysis",
+        "title": "public comment moderation pipeline with sentiment analysis",
+        "originalPath": "/features/public-comment-moderation-pipeline-with-sentiment-analysis"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "poll-worker-schedule"
+    ],
+    "ai": true,
+    "representativeId": "poll-worker-schedule",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "poll-worker-schedule",
+        "title": "AI · Poll-Worker Schedule",
+        "originalPath": "/features/poll-worker-schedule"
+      }
+    ]
+  }
+]
